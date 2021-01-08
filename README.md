@@ -2,7 +2,7 @@
 Aggregating and merging data with Pandas, Matplotlib
 
 HTML Markdown in Notebooks:
-- <img src='image.jpg'>    -->    embedding images 
+- '<img src='image.jpg'>'    -->    embedding images 
 - headings (#, ##, ###, ####, #####)
 
 Pandas:
