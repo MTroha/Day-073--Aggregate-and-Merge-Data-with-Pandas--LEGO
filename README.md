@@ -2,13 +2,13 @@
 Aggregating and merging data with Pandas, Matplotlib
 
 HTML Markdown in Notebooks:
-- <img src=>    -->    embedding images 
+- <img src=>    -->     embedding images 
 - headings (#, ##, ###, ####, #####)
 
 Pandas:
-- .groupby() and .count()    -->    combined methods for aggregating data
+- .groupby() and .count()   -->     combined methods for aggregating data
 - .value_counts()
-- df[:-2], df[10:]    -->    slicing DataFrame (just like with lists)
+- df[:-2], df[10:]  -->     slicing DataFrame (just like with lists)
 - .agg()    -->    run an operation on a particular column
 - .rename()    -->    rename the columns of the DataFrame
 - .merge()    -->    merge DataFrame along a particular column
